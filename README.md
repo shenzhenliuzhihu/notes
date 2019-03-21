@@ -1,5 +1,7 @@
 mynote
 ```java
-你好
+public static void main(String args[]){
+system.out.println("我的笔记")
+}
 ```
 
